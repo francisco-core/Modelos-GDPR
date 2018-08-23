@@ -5,12 +5,15 @@
 Modelos para exercer os direitos garantidos pelo RGPD
 
 ## O RGPD dá aos cidadãos europeus 5 novos direitos
-* Direito ao Acesso e Portabilidade de Dados
-* Direito à Rectificação
-* Direito ao Esquecimento
-* Direito à Informação
-* Direito de Impedir Processamento de Dados
- 
+
+|        Ação       |                 Direito Associado               |
+|-------------------|-------------------------------------------------|
+| Dê-me os dados e deixe-me ir para a concorrência | Direito ao Acesso e Portabilidade de Dados |
+| Corrigam os Meus Dados |  Direito à Rectificação |
+| Não quero a minha informação disponível | Direito ao Esquecimento |
+| ?? | Direito à Informação |
+| Apagem os Meus dados |  Direito de Impedir Processamento de Dados|
+  
 Este documento oferece modelos para exigir cada um desses direitos
 
 ## Como Exercer os Direitos?
